@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="audiofile.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="audiofile0000" x="0" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0001" x="406" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0002" x="812" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0003" x="1218" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0004" x="1624" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0005" x="2030" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0006" x="2436" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0007" x="2842" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0008" x="3248" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0009" x="3654" y="0" width="406" height="794"/>
+	<SubTexture name="audiofile0010" x="0" y="794" width="406" height="794"/>
+	<SubTexture name="audiofile0011" x="0" y="0" width="406" height="794"/>
+</TextureAtlas>

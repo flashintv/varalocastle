@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfscared.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFcutscene10000" x="0" y="0" width="405" height="412" frameX="-1" frameY="-1" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="BFcutscene10001" x="405" y="0" width="407" height="412" frameX="0" frameY="-1" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="BFcutscene10002" x="0" y="412" width="406" height="413" frameX="0" frameY="0" frameWidth="407" frameHeight="413"/>
+	<SubTexture name="BFcutscene10003" x="406" y="412" width="407" height="413"/>
+</TextureAtlas>

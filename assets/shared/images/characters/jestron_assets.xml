@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jestron_assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JestronDown0000" x="0" y="0" width="722" height="774"/>
+	<SubTexture name="JestronDown0001" x="722" y="0" width="722" height="774"/>
+	<SubTexture name="JestronDown0002" x="722" y="0" width="722" height="774"/>
+	<SubTexture name="JestronDown0003" x="0" y="0" width="722" height="774"/>
+	<SubTexture name="JestronDown0004" x="722" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0000" x="1444" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0001" x="2166" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0002" x="2888" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0003" x="3610" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0004" x="4332" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0005" x="5054" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0006" x="5776" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0007" x="5776" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0008" x="6498" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0009" x="4332" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0010" x="7220" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0011" x="0" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0012" x="722" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0013" x="1444" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0014" x="1444" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0015" x="2166" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0016" x="2888" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0017" x="3610" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0018" x="4332" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0019" x="5054" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0020" x="5776" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0021" x="5776" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0022" x="5054" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0023" x="6498" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0024" x="7220" y="774" width="722" height="774"/>
+	<SubTexture name="JestronIdle0025" x="0" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronIdle0026" x="722" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronIdle0027" x="1444" y="0" width="722" height="774"/>
+	<SubTexture name="JestronIdle0028" x="1444" y="0" width="722" height="774"/>
+	<SubTexture name="JestronLeft0000" x="1444" y="1548" width="727" height="774"/>
+	<SubTexture name="JestronLeft0001" x="2171" y="1548" width="722" height="774" frameX="-5" frameY="0" frameWidth="727" frameHeight="774"/>
+	<SubTexture name="JestronLeft0002" x="2171" y="1548" width="722" height="774" frameX="-5" frameY="0" frameWidth="727" frameHeight="774"/>
+	<SubTexture name="JestronLeft0003" x="1444" y="1548" width="727" height="774"/>
+	<SubTexture name="JestronLeft0004" x="2171" y="1548" width="722" height="774" frameX="-5" frameY="0" frameWidth="727" frameHeight="774"/>
+	<SubTexture name="JestronRight0000" x="2893" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronRight0001" x="3615" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronRight0002" x="3615" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronRight0003" x="2893" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronRight0004" x="3615" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronUp0000" x="4337" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronUp0001" x="5059" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronUp0002" x="4337" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronUp0003" x="5781" y="1548" width="722" height="774"/>
+	<SubTexture name="JestronUp0004" x="5059" y="1548" width="722" height="774"/>
+</TextureAtlas>

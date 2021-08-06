@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wind.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wind0000" x="0" y="0" width="2176" height="1248"/>
+	<SubTexture name="wind0001" x="2176" y="0" width="2176" height="1248"/>
+	<SubTexture name="wind0002" x="4352" y="0" width="2176" height="1248"/>
+	<SubTexture name="wind0003" x="0" y="1248" width="2176" height="1248"/>
+	<SubTexture name="wind0004" x="2176" y="1248" width="2176" height="1248"/>
+</TextureAtlas>

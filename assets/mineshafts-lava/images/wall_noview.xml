@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wall_noview.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wallspeed0000" x="0" y="0" width="1893" height="701"/>
+	<SubTexture name="wallspeed0001" x="1893" y="0" width="1893" height="701"/>
+	<SubTexture name="wallspeed0002" x="0" y="701" width="1893" height="701"/>
+	<SubTexture name="wallspeed0003" x="1893" y="701" width="1893" height="701"/>
+</TextureAtlas>

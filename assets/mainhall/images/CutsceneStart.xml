@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CutsceneStart.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cutscene0000" x="0" y="0" width="1946" height="1145"/>
+	<SubTexture name="Cutscene0001" x="1946" y="0" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0000" x="3892" y="0" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0001" x="5838" y="0" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0002" x="0" y="1145" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0003" x="1946" y="1145" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0004" x="3892" y="1145" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0005" x="5838" y="1145" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0006" x="0" y="2290" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0007" x="1946" y="2290" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0008" x="3892" y="2290" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0009" x="5838" y="2290" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0010" x="0" y="3435" width="1946" height="1145"/>
+	<SubTexture name="CutsceneLightning0011" x="1946" y="3435" width="1946" height="1145"/>
+</TextureAtlas>

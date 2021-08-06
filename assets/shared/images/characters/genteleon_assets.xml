@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Genteleon.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GenteleonDown0000" x="0" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonDown0001" x="863" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonDown0002" x="1726" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonDown0003" x="2589" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonDown0004" x="3452" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonDown0005" x="3452" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonDown0006" x="3452" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonDown0007" x="3452" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0000" x="4315" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0001" x="5178" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0002" x="6041" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0003" x="6904" y="0" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0004" x="0" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0005" x="863" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0006" x="1726" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0007" x="2589" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0008" x="3452" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0009" x="4315" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0010" x="5178" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0011" x="6041" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0012" x="6904" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0013" x="6904" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonIdle0014" x="6904" y="1292" width="863" height="1292"/>
+	<SubTexture name="GenteleonLeft0000" x="0" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonLeft0001" x="863" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonLeft0002" x="1726" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonLeft0003" x="2589" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonLeft0004" x="3452" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonLeft0005" x="3452" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonLeft0006" x="3452" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonLeft0007" x="3452" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonRight0000" x="4315" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonRight0001" x="5178" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonRight0002" x="6041" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonRight0003" x="6904" y="2584" width="863" height="1292"/>
+	<SubTexture name="GenteleonRight0004" x="0" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonRight0005" x="0" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonRight0006" x="0" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonRight0007" x="0" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonUp0000" x="863" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonUp0001" x="1726" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonUp0002" x="2589" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonUp0003" x="3452" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonUp0004" x="4315" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonUp0005" x="4315" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonUp0006" x="4315" y="3876" width="863" height="1292"/>
+	<SubTexture name="GenteleonUp0007" x="4315" y="3876" width="863" height="1292"/>
+</TextureAtlas>

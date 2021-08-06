@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rail_long.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RailMoving0000" x="0" y="0" width="1399" height="334"/>
+	<SubTexture name="RailMoving0001" x="0" y="334" width="1399" height="334"/>
+	<SubTexture name="RailMoving0002" x="0" y="668" width="1399" height="334"/>
+	<SubTexture name="RailMoving0003" x="0" y="1002" width="1399" height="334"/>
+	<SubTexture name="RailMoving0004" x="0" y="1336" width="1399" height="334"/>
+	<SubTexture name="RailMoving0005" x="0" y="1670" width="1399" height="334"/>
+</TextureAtlas>

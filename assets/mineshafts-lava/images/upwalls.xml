@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="upwalls.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="upperwall0000" x="0" y="0" width="1395" height="298" frameX="0" frameY="-2" frameWidth="1395" frameHeight="302"/>
+	<SubTexture name="upperwall0001" x="1395" y="0" width="1395" height="302"/>
+	<SubTexture name="upperwall0002" x="0" y="302" width="1395" height="302"/>
+	<SubTexture name="upperwall0003" x="1395" y="302" width="1395" height="302"/>
+	<SubTexture name="upperwall0004" x="0" y="604" width="1395" height="302"/>
+	<SubTexture name="upperwall0005" x="1395" y="604" width="1395" height="302"/>
+	<SubTexture name="upperwall0006" x="0" y="906" width="1395" height="302"/>
+	<SubTexture name="upperwall0007" x="1395" y="906" width="1395" height="302"/>
+</TextureAtlas>
