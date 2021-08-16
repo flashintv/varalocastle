@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speech_bubble.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="exclamationidle0000" x="0" y="0" width="1210" height="369"/>
+	<SubTexture name="exclamationopen0000" x="1210" y="0" width="780" height="254" frameX="-214" frameY="-222" frameWidth="1210" frameHeight="477"/>
+	<SubTexture name="exclamationopen0001" x="1990" y="0" width="957" height="335" frameX="-125" frameY="-142" frameWidth="1210" frameHeight="477"/>
+	<SubTexture name="exclamationopen0002" x="2947" y="0" width="1100" height="402" frameX="-54" frameY="-74" frameWidth="1210" frameHeight="477"/>
+	<SubTexture name="exclamationopen0003" x="0" y="402" width="1186" height="476" frameX="-11" frameY="0" frameWidth="1210" frameHeight="477"/>
+	<SubTexture name="exclamationopen0004" x="1186" y="402" width="1210" height="449" frameX="0" frameY="-26" frameWidth="1210" frameHeight="477"/>
+	<SubTexture name="normalidle0000" x="2396" y="402" width="1106" height="272" frameX="-3" frameY="0" frameWidth="1109" frameHeight="272"/>
+	<SubTexture name="normalidle0001" x="2396" y="402" width="1106" height="272" frameX="-3" frameY="0" frameWidth="1109" frameHeight="272"/>
+	<SubTexture name="normalidle0002" x="2396" y="402" width="1106" height="272" frameX="-3" frameY="0" frameWidth="1109" frameHeight="272"/>
+	<SubTexture name="normalidle0003" x="2396" y="402" width="1106" height="272" frameX="-3" frameY="0" frameWidth="1109" frameHeight="272"/>
+	<SubTexture name="normalidle0004" x="0" y="878" width="1102" height="266" frameX="0" frameY="-4" frameWidth="1109" frameHeight="272"/>
+	<SubTexture name="normalidle0005" x="0" y="878" width="1102" height="266" frameX="0" frameY="-4" frameWidth="1109" frameHeight="272"/>
+	<SubTexture name="normalidle0006" x="0" y="878" width="1102" height="266" frameX="0" frameY="-4" frameWidth="1109" frameHeight="272"/>
+	<SubTexture name="normalidle0007" x="0" y="878" width="1102" height="266" frameX="0" frameY="-4" frameWidth="1109" frameHeight="272"/>
+	<SubTexture name="normalopen0000" x="1102" y="878" width="753" height="187" frameX="-230" frameY="-102" frameWidth="1224" frameHeight="301"/>
+	<SubTexture name="normalopen0001" x="1855" y="878" width="901" height="222" frameX="-159" frameY="-62" frameWidth="1224" frameHeight="301"/>
+	<SubTexture name="normalopen0002" x="2756" y="878" width="1120" height="276" frameX="-52" frameY="-13" frameWidth="1224" frameHeight="301"/>
+	<SubTexture name="normalopen0003" x="0" y="1154" width="1224" height="301"/>
+	<SubTexture name="normalopen0004" x="1224" y="1154" width="1106" height="272" frameX="-59" frameY="-15" frameWidth="1224" frameHeight="301"/>
+	<SubTexture name="thinkingidle0000" x="2330" y="1154" width="1096" height="305" frameX="-4" frameY="-13" frameWidth="1104" frameHeight="318"/>
+	<SubTexture name="thinkingidle0001" x="2330" y="1154" width="1096" height="305" frameX="-4" frameY="-13" frameWidth="1104" frameHeight="318"/>
+	<SubTexture name="thinkingidle0002" x="2330" y="1154" width="1096" height="305" frameX="-4" frameY="-13" frameWidth="1104" frameHeight="318"/>
+	<SubTexture name="thinkingidle0003" x="2330" y="1154" width="1096" height="305" frameX="-4" frameY="-13" frameWidth="1104" frameHeight="318"/>
+	<SubTexture name="thinkingidle0004" x="0" y="1459" width="1104" height="314" frameX="0" frameY="0" frameWidth="1104" frameHeight="318"/>
+	<SubTexture name="thinkingidle0005" x="0" y="1459" width="1104" height="314" frameX="0" frameY="0" frameWidth="1104" frameHeight="318"/>
+	<SubTexture name="thinkingidle0006" x="0" y="1459" width="1104" height="314" frameX="0" frameY="0" frameWidth="1104" frameHeight="318"/>
+	<SubTexture name="thinkingidle0007" x="0" y="1459" width="1104" height="314" frameX="0" frameY="0" frameWidth="1104" frameHeight="318"/>
+	<SubTexture name="thinkingopen0000" x="1104" y="1459" width="737" height="206" frameX="-192" frameY="-108" frameWidth="1133" frameHeight="317"/>
+	<SubTexture name="thinkingopen0001" x="1841" y="1459" width="853" height="238" frameX="-138" frameY="-72" frameWidth="1133" frameHeight="317"/>
+	<SubTexture name="thinkingopen0002" x="2694" y="1459" width="979" height="273" frameX="-70" frameY="-44" frameWidth="1133" frameHeight="317"/>
+	<SubTexture name="thinkingopen0003" x="0" y="1773" width="1133" height="316" frameX="0" frameY="0" frameWidth="1133" frameHeight="317"/>
+</TextureAtlas>
