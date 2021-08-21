@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="downBar.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sideBar0000" x="0" y="0" width="1431" height="319"/>
+	<SubTexture name="sideBar0001" x="0" y="0" width="1431" height="319"/>
+	<SubTexture name="sideBar0002" x="0" y="0" width="1431" height="319"/>
+	<SubTexture name="sideBar0003" x="0" y="0" width="1431" height="319"/>
+	<SubTexture name="sideBar0004" x="0" y="319" width="1431" height="310" frameX="0" frameY="-9" frameWidth="1431" frameHeight="319"/>
+	<SubTexture name="sideBar0005" x="0" y="319" width="1431" height="310" frameX="0" frameY="-9" frameWidth="1431" frameHeight="319"/>
+	<SubTexture name="sideBar0006" x="0" y="319" width="1431" height="310" frameX="0" frameY="-9" frameWidth="1431" frameHeight="319"/>
+	<SubTexture name="sideBar0007" x="0" y="319" width="1431" height="310" frameX="0" frameY="-9" frameWidth="1431" frameHeight="319"/>
+</TextureAtlas>

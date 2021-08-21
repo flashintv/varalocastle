@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storyUIassets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EASY instance 10000" x="0" y="0" width="291" height="119"/>
+	<SubTexture name="HARD instance 10000" x="0" y="119" width="291" height="119"/>
+	<SubTexture name="NORMAL instance 10000" x="0" y="238" width="291" height="119"/>
+	<SubTexture name="arrow left instance 10000" x="291" y="238" width="79" height="121"/>
+	<SubTexture name="arrow push left instance 10000" x="370" y="238" width="79" height="121"/>
+	<SubTexture name="arrow push right instance 10000" x="0" y="359" width="79" height="121"/>
+	<SubTexture name="arrow right instance 10000" x="79" y="359" width="79" height="121"/>
+	<SubTexture name="lock instance 10000" x="158" y="359" width="286" height="72"/>
+</TextureAtlas>

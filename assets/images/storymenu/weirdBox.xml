@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weirdBox.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="weirdBox0000" x="0" y="0" width="523" height="427" frameX="0" frameY="0" frameWidth="529" frameHeight="427"/>
+	<SubTexture name="weirdBox0001" x="0" y="0" width="523" height="427" frameX="0" frameY="0" frameWidth="529" frameHeight="427"/>
+	<SubTexture name="weirdBox0002" x="0" y="0" width="523" height="427" frameX="0" frameY="0" frameWidth="529" frameHeight="427"/>
+	<SubTexture name="weirdBox0003" x="0" y="0" width="523" height="427" frameX="0" frameY="0" frameWidth="529" frameHeight="427"/>
+	<SubTexture name="weirdBox0004" x="0" y="427" width="523" height="427" frameX="-6" frameY="0" frameWidth="529" frameHeight="427"/>
+	<SubTexture name="weirdBox0005" x="0" y="427" width="523" height="427" frameX="-6" frameY="0" frameWidth="529" frameHeight="427"/>
+	<SubTexture name="weirdBox0006" x="0" y="427" width="523" height="427" frameX="-6" frameY="0" frameWidth="529" frameHeight="427"/>
+	<SubTexture name="weirdBox0007" x="0" y="427" width="523" height="427" frameX="-6" frameY="0" frameWidth="529" frameHeight="427"/>
+</TextureAtlas>

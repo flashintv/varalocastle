@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chapterSelectors.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chapter0 instance 10000" x="0" y="0" width="1278" height="194"/>
+	<SubTexture name="Chapter1 instance 10000" x="0" y="194" width="1278" height="195"/>
+	<SubTexture name="Chapter2 instance 10000" x="0" y="389" width="1278" height="195"/>
+</TextureAtlas>
